@@ -63,7 +63,7 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+  - "*.gemspec"
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md 
