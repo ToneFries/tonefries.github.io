@@ -63,6 +63,7 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+  - vendor/
   - "*.gemspec"
   - LICENSE.md
   - CONTRIBUTING.md
